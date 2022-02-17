@@ -1,6 +1,6 @@
 {
   "name": "react-native-kanban",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "React Native drag and drop kanban",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
