@@ -1,0 +1,29 @@
+{
+  "name": "react-native-kanban",
+  "version": "0.0.1",
+  "description": "React Native drag and drop kanban",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisL108/react-native-kanban.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "kanban",
+    "drag",
+    "and",
+    "drop",
+    "board",
+    "tracker"
+  ],
+  "author": "Chris Lacaille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisL108/react-native-kanban/issues"
+  },
+  "homepage": "https://github.com/ChrisL108/react-native-kanban#readme"
+}
